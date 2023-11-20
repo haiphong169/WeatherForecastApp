@@ -1,5 +1,5 @@
 # Weather Forecast App
-The app provides weather forecast in a city for a week, along with searching, bookmarking your favorite cities around the world. It uses API from [title](https://openweathermap.org/) and Jetpack Compose, with many other libraries.
+The app provides weather forecast in a city for a week, along with searching, bookmarking your favorite cities around the world. It uses API from [OpenWeatherMap](https://openweathermap.org/) and Jetpack Compose, with many other libraries.
 
 ## Splash Screen
 ![splash_screen](https://github.com/haiphong169/WeatherForecastApp/assets/61385020/98f546bb-755c-43eb-afe0-36ca502e9e0b)
