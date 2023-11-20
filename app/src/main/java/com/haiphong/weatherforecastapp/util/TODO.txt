@@ -1,0 +1,10 @@
+- Favorites:
+    + Favorite @Entity x
+    + FavoriteDao @Dao x
+    + FavoriteDatabase @Database x
+    + di x
+    + FavoriteRepository x
+    + Drawer to display favorites
+    + Tap one favorite and the currently searched city changes
+    + Favorite can be deleted
+    + Favorite button changes when selecting favorite
